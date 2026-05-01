@@ -1,11 +1,11 @@
-﻿# Soundboard
+﻿# SoundBoard
 
 [![Latest Release](https://img.shields.io/github/v/release/ZeddiS/zeddihub-teamspeak-soundboard)](https://github.com/ZeddiS/zeddihub-teamspeak-soundboard/releases)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
-Play sound files into your TeamSpeak 3 microphone stream with hotkeys.
+Colored tile soundboard for TeamSpeak 3. Click tiles to play .wav into your mic stream.
 
-Open the soundboard window from Plugins menu, add slots, browse for .wav files. Each slot has a configurable hotkey (bind in TS3 Settings -> Hotkeys). When triggered, the sound is mixed into your outgoing voice stream so others hear it. Multiple sounds can play simultaneously.
+Open SoundBoard from Plugins menu. Add tiles, browse for .wav files, customize each tile's name and color. Right-click a tile for options. Each tile has a hotkey (bind in TS3 Settings -> Hotkeys). When triggered, sound is mixed into your outgoing mic stream so others in the channel hear it. Supports 16/24/32-bit PCM and 32-bit float WAV. Multiple sounds mix simultaneously.
 
 Part of the [**ZeddiHub TeamSpeak Addons**](https://github.com/ZeddiS/zeddihub-teamspeak-addons) collection.
 
@@ -21,10 +21,10 @@ All download files are in **[Releases](https://github.com/ZeddiS/zeddihub-teamsp
 
 | TS3 client | API | File |
 |---|---|---|
-| 3.5.0 | 23 | `Soundboard-v1.0.0-TS3-3.5.0-api23.ts3_plugin` |
-| 3.5.1 - 3.5.5 | 24 | `Soundboard-v1.0.0-TS3-3.5.1-3.5.5-api24.ts3_plugin` |
-| **3.5.6** | **25** | **`Soundboard-v1.0.0-TS3-3.5.6-api25.ts3_plugin`** |
-| 3.6.x and newer | 26 | `Soundboard-v1.0.0-TS3-3.6+-api26.ts3_plugin` |
+| 3.5.0 | 23 | `Soundboard-v1.1.0-TS3-3.5.0-api23.ts3_plugin` |
+| 3.5.1 - 3.5.5 | 24 | `Soundboard-v1.1.0-TS3-3.5.1-3.5.5-api24.ts3_plugin` |
+| **3.5.6** | **25** | **`Soundboard-v1.1.0-TS3-3.5.6-api25.ts3_plugin`** |
+| 3.6.x and newer | 26 | `Soundboard-v1.1.0-TS3-3.6+-api26.ts3_plugin` |
 
 2. Double-click the downloaded file. TS3 client opens an install dialog.
 3. Click **Yes** to install. TS3 copies the DLL into the plugins folder.
