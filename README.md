@@ -21,10 +21,10 @@ All download files are in **[Releases](https://github.com/ZeddiS/zeddihub-teamsp
 
 | TS3 client | API | File |
 |---|---|---|
-| 3.5.0 | 23 | `Soundboard-v1.2.0-TS3-3.5.0-api23.ts3_plugin` |
-| 3.5.1 - 3.5.5 | 24 | `Soundboard-v1.2.0-TS3-3.5.1-3.5.5-api24.ts3_plugin` |
-| **3.5.6** | **25** | **`Soundboard-v1.2.0-TS3-3.5.6-api25.ts3_plugin`** |
-| 3.6.x and newer | 26 | `Soundboard-v1.2.0-TS3-3.6+-api26.ts3_plugin` |
+| 3.5.0 | 23 | `Soundboard-v1.2.1-TS3-3.5.0-api23.ts3_plugin` |
+| 3.5.1 - 3.5.5 | 24 | `Soundboard-v1.2.1-TS3-3.5.1-3.5.5-api24.ts3_plugin` |
+| **3.5.6** | **25** | **`Soundboard-v1.2.1-TS3-3.5.6-api25.ts3_plugin`** |
+| 3.6.x and newer | 26 | `Soundboard-v1.2.1-TS3-3.6+-api26.ts3_plugin` |
 
 2. Double-click the downloaded file. TS3 client opens an install dialog.
 3. Click **Yes** to install. TS3 copies the DLL into the plugins folder.
