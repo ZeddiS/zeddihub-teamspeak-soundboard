@@ -3,6 +3,11 @@
 All notable changes to **SoundBoard** are documented here.
 Format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
+## [1.1.1] - 2026-05-01
+### Added
+- LOCAL MONITOR via TS3 native ts3client_playWaveFile(): user hears the sound on their own playback device when they trigger a tile (was: only others heard it via mic mix)
+- Required for solo testing -- before this, clicking Play in an empty channel did nothing audible to the user
+
 ## [1.1.0] - 2026-05-01
 ### Changed
 - Plugin renamed: 'ZeddiHub Soundboard' -> 'SoundBoard'
